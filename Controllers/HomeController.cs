@@ -17,6 +17,10 @@ namespace NEW_AI_PROJECT_USERINTERFACE.Controllers
         {
             return View();
         }
+        public IActionResult ContactUs()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
