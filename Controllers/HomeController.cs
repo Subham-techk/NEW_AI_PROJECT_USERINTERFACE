@@ -19,7 +19,7 @@ namespace NEW_AI_PROJECT_USERINTERFACE.Controllers
         }
         public IActionResult ContactUs()
         {
-            return View();
+            return View();  
         }
         public IActionResult Service()
         {
